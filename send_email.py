@@ -6,11 +6,11 @@ def mail():
 	# Email config
 	smtp_server = 'smtp.gmail.com'
 	smtp_port = 587
-	smtp_user = 'shubhamsaboo007@gmail.com'
-	smtp_password = 'zhbephdrbmifodmc'
+	smtp_user = 'sh***am**********mail.com'
+	smtp_password = 'z*b**********dmc'
 
 	# Email content
-	from_email = 'shubhamsaboo007@gmail.com'
+	from_email = 'sh******aboo0******il.com'
 	to_email =input("Enter receivers Email : ")
 	subject =input("Enter Subject of your Email : ")
 	body =input("Enter Body of your Email : ")
@@ -44,11 +44,11 @@ def mail_sch(to_email,subject,body):
 	# Email configuration
 	smtp_server = 'smtp.gmail.com'  # Replace with your SMTP server
 	smtp_port = 587  # Replace with your SMTP port
-	smtp_user = 'shubhamsaboo007@gmail.com'  # Replace with your email address
-	smtp_password = 'zhbephdrbmifodmc'  # Replace with your app password
+	smtp_user = 'shu***msab**********l.com'  # Replace with your email address
+	smtp_password = 'zh****dr******mc'  # Replace with your app password
 
 	# Email content
-	from_email = 'shubhamsaboo007@gmail.com'  # Replace with your email address
+	from_email = 'sh****msa******@gmail.com'  # Replace with your email address
 #	to_email =to_email_mail  # Replace with the recipient's email address
 #	subject =sub_mail
 #	body =body_mail
